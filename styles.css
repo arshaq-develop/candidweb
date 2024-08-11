@@ -1,0 +1,49 @@
+
+
+.display-4{
+    text-align: center;
+  
+
+}
+
+
+
+.icon-square{
+    width: 4rem;
+      height: 4rem;
+      border-radius: 0.75rem;
+}
+
+
+.fw-normal{
+    text-align: center;
+    align-items: center;
+}
+
+.d-block{
+    justify-content: center;
+}
+
+
+.title{
+    background: linear-gradient(300deg, #1a2400, #099431, #00d4ff);
+     background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+}
+
+
+.pb-2{
+    text-align: center;
+}
+
+
+.testi{
+    background: linear-gradient(300deg, #1a2400, #099431, #00d4ff);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+    padding-top: 30px;
+}
+
+
+}
+}
